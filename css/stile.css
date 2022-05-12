@@ -1,0 +1,22 @@
+
+body {
+    background-color: #fffb00ce;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+}
+
+.container {
+    width: 80%;
+    border: 1px solid #0000;
+    margin: 0 auto;
+}
+
+.form, .calcolatrice {
+    width: 100%;
+    
+}
+
+.container input, .container button, .calcolatrice {
+    padding: 15px;
+    border-radius: 1%;
+}
